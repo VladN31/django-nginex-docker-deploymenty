@@ -1,4 +1,4 @@
-# Simple Django Hello World Starter Template
+# Simple Django Hello World Starter Template + DOCKER-COMPOSE
 
 A basic Django 3.0 starter project.
 
